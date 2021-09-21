@@ -1,0 +1,7 @@
+C:\Users\asus\Downloads\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\ProgrammingAssignment2.exe.config
+C:\Users\asus\Downloads\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\ProgrammingAssignment2.exe
+C:\Users\asus\Downloads\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\ProgrammingAssignment2.pdb
+C:\Users\asus\Downloads\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.csprojAssemblyReference.cache
+C:\Users\asus\Downloads\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.exe
+C:\Users\asus\Downloads\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.pdb
